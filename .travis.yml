@@ -28,27 +28,7 @@ env:
   - JOB=JOB-18
   - JOB=JOB-19
   - JOB=JOB-20
-  - JOB=JOB-21
-  - JOB=JOB-22
-  - JOB=JOB-23
-  - JOB=JOB-24
-  - JOB=JOB-25
-  - JOB=JOB-26
-  - JOB=JOB-27
-  - JOB=JOB-28
-  - JOB=JOB-29
-  - JOB=JOB-30
-  - JOB=JOB-31
-  - JOB=JOB-32
-  - JOB=JOB-33
-  - JOB=JOB-34
-  - JOB=JOB-35
-  - JOB=JOB-36  
-  - JOB=JOB-37
-  - JOB=JOB-38
-  - JOB=JOB-39
-  - JOB=JOB-40
-  
+
 script:
   - printenv 
  
